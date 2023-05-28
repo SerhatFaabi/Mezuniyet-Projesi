@@ -1,6 +1,0 @@
-Programlama nedir
-Programlar hangi alanda kullanılır
-İlk yapılan bilgisayar oyunu
-Bilgisayar oyunundaki 2D / 2.5D / 3D gelişimler
-Bilgisayar oyununda yapılan çeşitlilikler
-Kullanılan teknolojiler
